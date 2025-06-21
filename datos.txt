@@ -1,0 +1,16 @@
+Ana,1200.50
+Bruno,845.00
+Carlos,3000.75
+Daniela,450.25
+Emilia,1900.00
+Facundo,220.10
+Gabriela,500.00
+Hernán,1300.90
+Ivana,620.00
+Julián,740.20
+Karla,1550.35
+Lautaro,800.00
+Martina,1290.75
+Nicolás,2330.60
+Olivia,2100.50
+
