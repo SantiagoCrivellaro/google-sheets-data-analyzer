@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-API-green)
+![gspread](https://img.shields.io/badge/gspread-Library-orange)
+![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-red)
+ 
+ 
+ 
  # 📊  Google Sheets Data Analyzer 
 
 
@@ -73,10 +80,11 @@ oauth2client
 
 ## 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/google-sheets-data-analyzer.git
+git clone https://github.com/SantiagoCrivellaro/google-sheets-data-analyzer.git
+
 cd google-sheets-data-analyzer
 
-##2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 
 pip install gspread oauth2client
 
@@ -134,3 +142,27 @@ project
 ├── datos.txt
 ├── credentials.json
 └── README.md
+
+Author
+
+Santiago Crivellaro
+
+Backend Developer focused on:
+
+Java
+
+Spring Boot
+
+APIs
+
+Microservices
+
+Python
+
+Software Architecture
+
+GitHub:
+https://github.com/SantiagoCrivellaro
+
+LinkedIn:
+https://www.linkedin.com/in/santiago-crivellaro-a407133b5/
