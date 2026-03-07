@@ -135,7 +135,9 @@ Output:
 
 Datos y análisis escritos en columnas A y B de Google Sheets.
 
+
 # 📂 Project Structure
+
 project
 │
 ├── main.py
@@ -143,7 +145,11 @@ project
 ├── credentials.json
 └── README.md
 
-Author
+
+
+
+
+# Author
 
 Santiago Crivellaro
 
@@ -161,8 +167,8 @@ Python
 
 Software Architecture
 
-GitHub:
+## GitHub:
 https://github.com/SantiagoCrivellaro
 
-LinkedIn:
+## LinkedIn:
 https://www.linkedin.com/in/santiago-crivellaro-a407133b5/
